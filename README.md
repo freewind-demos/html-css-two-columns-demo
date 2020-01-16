@@ -1,6 +1,6 @@
-Html Css Display Grid Demo
+Html CSS Two Columns Demo
 ==========================
 
-使用`display:grid`让元素横向排成两列。
+使用`columns-count`让元素竖向排成多列
 
 Open `index.html` in your browser.
