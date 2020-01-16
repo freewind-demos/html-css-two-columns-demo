@@ -1,9 +1,11 @@
 #main {
     width: 600px;
-    height: 400px;
-    background-color: #EEEEEE;
-    font-size: 40px;
-    line-height: 400px;
     text-align: center;
     margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 150px);
+}
+
+.item {
+    border: 1px solid green;
 }

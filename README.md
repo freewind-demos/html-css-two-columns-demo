@@ -1,8 +1,6 @@
-Css Hello World Demo
-====================
+Html Css Display Grid Demo
+==========================
 
-Use css in html pages.
+使用`display:grid`让元素横向排成两列。
 
 Open `index.html` in your browser.
-
-![demo](./images/demo.jpg)
